@@ -8,6 +8,7 @@ A server launches, then waits for input from a client for 10 minutes. The client
 ---
 
 [Prerequisites]
+
 Ensure python is installed on your machine.
 
 Python can be acquired here:
@@ -17,6 +18,7 @@ Recommended version: 3.12.4
 ---
 
 [Instructions]
+
 0. Open two command prompt windows in the target folder. That is, the folder(s) with socketTest.py and clientTest.py inside.
 
 1. Run socketTest.py using the following command prompt inputs.
